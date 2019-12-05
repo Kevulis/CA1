@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<booklist>
+  
+  <section name="Adventure">
+    <entree>
+      <item>Shadowhunters Childrens Book</item>
+      <price>9.99</price>
+    </entree>
+    <entree>
+      <item>The funny hat and Mr. Rabbit</item>
+      <price>8.99</price>
+    </entree>
+    <entree >
+      <item>City of Glass</item>
+      <price>8.99</price>
+    </entree>
+    <entree >
+      <item>The Silent Brothers</item>
+      <price>5.50</price>
+    </entree>
+    <entree>
+      <item>The Iron Sisters</item>
+      <price>7.99</price>
+    </entree>
+  </section>
+  <section name="Drama">
+    <entree>
+      <item>Parabatai</item>
+      <price>15.99</price>
+    </entree>
+    <entree>
+      <item>The cry of the Angel</item>
+      <price>6.99</price>
+    </entree>
+    <entree>
+      <item>When I first saw you</item>
+      <price>4.49</price>
+    </entree>
+  </section>
+  <section name="Fiction">
+    <entree>
+      <item>The the angel rise</item>
+      <price>19.99</price>
+    </entree>
+    <entree>
+      <item>How Magnus Bane became Magnus Bane</item>
+      <price>29.99</price>
+    </entree>
+    <entree >
+      <item>The Mortal Instruments</item>
+      <price>9.79</price>
+    </entree>
+    </section>
+    <section name="Mistic">
+    <entree>
+      <item>Werewolves</item>
+      <price>34.99</price>
+    </entree>
+    <entree>
+      <item>Fantastic Beasts and Where to Find Them</item>
+      <price>29.99</price>
+    </entree>
+    <entree >
+      <item>Going to the underworld for dummies</item>
+      <price>78.79</price>
+    </entree>
+  </section>
+</booklist>
