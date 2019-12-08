@@ -1,3 +1,6 @@
+// Project based on published work by https://github.com/mikhail-cct //
+
+
 function draw_table()
 {
 	$("#results").empty();
